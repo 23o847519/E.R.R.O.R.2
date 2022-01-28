@@ -9,6 +9,8 @@ import random
 from rich.console import Console
 console = Console()
 
+table = Table(title="Emergency Relapse Reaction Organised Response")
+
 print("\t*************************************************")
 console.print("\t**[bold red]Emergency Relapse Reaction Organised Response[/]**")
 print("\t*************************************************")
@@ -34,4 +36,3 @@ elif Emergency1 == "PMO":
 exit = input("Press any key to exit: ")
 os.system('clear')
 
-dede
