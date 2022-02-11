@@ -24,10 +24,10 @@ print("other")
 
 tim222 = ("Flee the evil desires of youth and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.")
 
-list1 = [q, w]
-list2 = [a,s ,  , ,]
-list3 = [z, x, , , ]
-list4 = [1, 2, , , ]
+list1 = [1, 2]
+list2 = [3, 4]
+list3 = [5, 6]
+list4 = [1, 2]
 
 
 Emergency1 = input("Enter emergency here: ")
