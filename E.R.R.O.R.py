@@ -24,8 +24,10 @@ print("other")
 
 tim222 = ("Flee the evil desires of youth and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.")
 
-list1 = [tim222, 2]
-list2 = [6, 7, 8, 9, 1]
+list1 = [q, w]
+list2 = [a,s ,  , ,]
+list3 = [z, x, , , ]
+list4 = [1, 2, , , ]
 
 
 Emergency1 = input("Enter emergency here: ")
@@ -34,9 +36,11 @@ if Emergency1 =="Drugs":
 elif Emergency1 == "PMO":
 	print(random.choice(list2))
 elif Emergency1 == "Anxiety":
-	print(random.choice(list2))
+	print(random.choice(list3))
 elif Emergency1 == "Other":
-	print(random.choice(list2))
+	print(random.choice(list4))
 exit = input("Press any key to exit: ")
+
+
 os.system('clear')
 
